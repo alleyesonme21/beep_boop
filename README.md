@@ -1,19 +1,21 @@
-# portfolio webpage
-My portfolio page shows all my work I did during my first week at Epicodus. 
+# Mr. Roboger's Neighborhood webpage  
  06/12/2020, By Johnny Duverseau
 # Description
-My personal portofolio outlines my prior work experience in Haiti, international development, and music performance. The portfolio includes links to my personal GitHub.
+This application takes a number from a user and returns a range of numbers from 0 to the user inputted number based on 3 criteria: (1) Numbers that contain a 1: all digits are replaced (all digits) with "Beep!"
+ (2) Numbers that contain a 2: all digits are replaced (all digits) with "Boop!"
+ (3) Numbers that contain a 3: all digits are replaced (all digits) with "Won't you be my neighbor?".
 
 ## Setup/installation requirement
 - Open terminal
 - Create project page in terminal
-- Cd my-portfolio
+- Cd beep_boop
 - Open in VSCode 
 - index.html in browser chrome to view the page 
 ## Technologies Used
-- Html
-- Css
-- Bootstrap 
+- HTML
+- CSS
+- Bootstrap
+- Javascript 
 - Git
 - VSCode
 
@@ -55,9 +57,6 @@ _The program will return a range of numbers 32 to the the users inputted number_
 * Example Input: 32
 * Example Output: "Won't you be my neighbor?"
 
-
- gh-pages Link
-url:https://alleyesonme21.github.io/my-portfolio/ 
 
 ## Support and contact details
 Contact info: Email: duverseaujohnny21@gmail.com

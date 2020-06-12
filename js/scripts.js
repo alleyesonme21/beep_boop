@@ -1,14 +1,12 @@
+//UI logic
 $(document).ready(function(){
   $("#formOne").submit(function(event) {
     event.preventDefault();
-const userInput = $("input#enterNumber").val();
- const string = global(userInput);
- $("#outCome").text(string);
-  
-
+    const userInput = $("input#enterNumber").val();
+    const string = global(userInput);
+    $("#outCome").text(string);
   });
 });
-
 //Business logic
 function global(number) {
   const array = [];

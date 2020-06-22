@@ -1,0 +1,22 @@
+body {
+  background-image:url(../img/\ \ background-image.jpg);
+}
+h1 {
+  text-align: center;
+  color: brown;
+}
+label {
+  color:yellow;
+  font-weight: bolder;
+}
+#formOne button.btn {
+  text-align: center;
+  color: yellowgreen;
+  margin-top: 10px;
+  margin-left: 40%;
+}
+#outCome {
+  font-size: larger;
+  color: chartreuse;
+  margin-top: 50px;
+}

@@ -12,12 +12,12 @@ function global(number) {
   const array = [];
   for (index = 0;  index <= number; index++) {
     array.push(index.toString());
-    if((array[index]).includes("1")) {
-      array[index] = ("Beep");
+    if((array[index]).includes("3")) {
+      array[index] = ("Won't you be my neighbor");
     } else if ((array[index]).includes("2")) {
       array[index] = ("Boop");
-    } else if ((array[index]).includes("3")) {
-      array[index] = ("Won't you be my neighbor");
+    } else if ((array[index]).includes("1")) {
+      array[index] = ("Beep");
     } else {
       array[index];
     }
